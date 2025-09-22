@@ -49,7 +49,7 @@ Default range: **0 – 30 cm** — the closer the object, the taller (and redder
 1.  **Clone this repository:**
 
     ``` bash
-    git clone https://github.com/<your-username>/arduino-ultrasonic-red-led-matrix.git
+    git clone https://github.com/Hridaywho/Arduino-Ultrasonic-Uno-Led-matrix.git
     ```
 
 2.  Open **DistanceMatrix.ino** in the Arduino IDE.
